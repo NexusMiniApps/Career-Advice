@@ -8,18 +8,30 @@ This is a collaborative effort where professionals share their authentic career 
 
 ## How to Contribute
 
+You can contribute in two ways:
+
+### Option 1: Quick Entry (Add to this README)
 1. Fork this repository
 2. Add your story in the format below
 3. Create a pull request
 4. Include your name/pseudonym as the author
 
-### Story Format
+**Story Format:**
 ```
 Story [Number]: [Title]
 Summary: [Brief 2-3 sentence summary]
 Author: [Your name or pseudonym]
 Link: [Optional link to full story]
 ```
+
+### Option 2: Full Markdown Story (Add to stories folder)
+1. Fork this repository
+2. Create a markdown file in the `stories` folder
+3. Follow the [stories submission guide](stories/README.md)
+4. Update this README with your story entry
+5. Create a pull request
+
+See the [stories folder README](stories/README.md) for detailed instructions on naming conventions and formatting.
 
 ---
 
