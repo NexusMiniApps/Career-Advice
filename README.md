@@ -7,7 +7,7 @@ A collection of real career stories and advice from multiple contributors. This 
 ### Story 1: How to Not Get Cucked by AI as a CS Student
 **Summary:** Advice for computer science students on staying relevant and competitive in an AI-driven tech landscape. This story provides practical insights on skills to develop and mindsets to adopt while still in school.
 
-**Author:** Yong Kang Chia
+**Author:** [Yong Kang Chia]([url](https://chiayong.com/))
 
 **Link:** [Read full story](https://yongkangchia.notion.site/How-to-not-get-cucked-by-AI-as-CS-student-Aka-advice-I-wished-I-had-if-if-I-was-still-in-school-2344d7b71e3f803db44ad673318724bd)
 
