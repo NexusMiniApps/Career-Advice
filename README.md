@@ -1,0 +1,55 @@
+# Collaborative Career Advice Handbook
+
+A collection of real career stories and advice from multiple contributors. This handbook aims to provide well-balanced perspectives on career development, challenges, and lessons learned.
+
+## About This Handbook
+
+This is a collaborative effort where professionals share their authentic career experiences and insights. Each story provides unique perspectives that can help others navigate their own career journeys.
+
+## How to Contribute
+
+1. Fork this repository
+2. Add your story in the format below
+3. Create a pull request
+4. Include your name/pseudonym as the author
+
+### Story Format
+```
+Story [Number]: [Title]
+Summary: [Brief 2-3 sentence summary]
+Author: [Your name or pseudonym]
+Link: [Optional link to full story]
+```
+
+---
+
+## Career Stories
+
+### Story 1: How to Not Get Cucked by AI as a CS Student
+**Summary:** Advice for computer science students on staying relevant and competitive in an AI-driven tech landscape. This story provides practical insights on skills to develop and mindsets to adopt while still in school.
+
+**Author:** Yong Kang Chia
+
+**Link:** [Read full story](https://yongkangchia.notion.site/How-to-not-get-cucked-by-AI-as-CS-student-Aka-advice-I-wished-I-had-if-if-I-was-still-in-school-2344d7b71e3f803db44ad673318724bd)
+
+---
+
+## Categories
+
+As we collect more stories, we'll organize them into categories such as:
+- 🎓 Student & Early Career
+- 💼 Mid-Career Transitions
+- 🚀 Entrepreneurship
+- 🔧 Technical Career Paths
+- 🎨 Creative Industries
+- 🌍 Remote Work & Digital Nomadism
+- 💡 Career Pivots
+- 📈 Leadership & Management
+
+## License
+
+This handbook is open-source and available under the MIT License. Feel free to share and adapt with attribution.
+
+## Contact
+
+To suggest edits or contribute stories, please open an issue or submit a pull request.
