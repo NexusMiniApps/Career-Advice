@@ -2,10 +2,6 @@
 
 A collection of real career stories and advice from multiple contributors. This handbook aims to provide well-balanced perspectives on career development, challenges, and lessons learned.
 
-## About This Handbook
-
-This is a collaborative effort where professionals share their authentic career experiences and insights. Each story provides unique perspectives that can help others navigate their own career journeys.
-
 ## Career Stories
 
 ### Story 1: How to Not Get Cucked by AI as a CS Student
